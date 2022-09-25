@@ -22,7 +22,7 @@ available via the :ref:`control socket <source-startup>` at
 
 .. code-block:: console
 
-   $ cat << EOF > config.json
+   $ cat << EOF > config,json
 
        {
            "type": "php",
