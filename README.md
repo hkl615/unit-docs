@@ -1,4 +1,4 @@
-![NGINX Unit Logo](unitlogo.svg)
+dei.v ![NGINX Unit Logo](unitlogo.svg)
 
 # NGINX Unit Documentation
 
